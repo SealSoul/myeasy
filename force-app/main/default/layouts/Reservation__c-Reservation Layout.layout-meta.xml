@@ -50,6 +50,10 @@
                 <behavior>Edit</behavior>
                 <field>Total_Number_of_Guests__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>End_Time__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
